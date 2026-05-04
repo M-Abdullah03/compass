@@ -69,7 +69,7 @@
     "compass-preferences-model": "^2.76.1",
     "hadron-document": "^8.11.5",
     "hadron-type-checker": "^7.5.5",
-    "mongodb": "^7.1.1",
+    "mongodb": "^7.2.0",
     "mongodb-collection-model": "^5.40.4",
     "mongodb-connection-string-url": "^7.0.1",
     "mongodb-ns": "^3.1.0",

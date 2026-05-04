@@ -84,7 +84,7 @@
     "compass-preferences-model": "^2.76.1",
     "json-schema": "^0.4.0",
     "lodash": "^4.18.1",
-    "mongodb": "^7.1.1",
+    "mongodb": "^7.2.0",
     "mongodb-collection-model": "^5.40.4",
     "mongodb-data-service": "^22.39.4",
     "mongodb-ns": "^3.1.0",
